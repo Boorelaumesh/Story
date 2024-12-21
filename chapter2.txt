@@ -1,1 +1,1 @@
-This is my another work of my git version control commands
+This is my new  work of my git version control commands
